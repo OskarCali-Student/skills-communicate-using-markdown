@@ -16,3 +16,4 @@ Initialized empty Git repository in some/awesome/directory/.git/
 - [x] Add an image
 - [x] Add a code example
 - [x] Make a task list
+- [ ] Merge pull request
